@@ -1,0 +1,3 @@
+SELECT user_id , COUNT(distinct follower_id) AS FOLLOWERS_COUNT
+FROM FOLLOWERS 
+GROUP BY USER_ID
