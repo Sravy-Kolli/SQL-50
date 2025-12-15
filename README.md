@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Sravy-Kolli/SQL-50/tree/master/0066-plus-one) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sravy-Kolli/SQL-50/tree/master/1383-maximum-performance-of-a-team) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sravy-Kolli/SQL-50/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
@@ -34,4 +35,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sravy-Kolli/SQL-50/tree/master/0066-plus-one) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sravy-Kolli/SQL-50/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sravy-Kolli/SQL-50/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sravy-Kolli/SQL-50/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sravy-Kolli/SQL-50/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
