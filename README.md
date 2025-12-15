@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sravy-Kolli/SQL-50/tree/master/0066-plus-one) |
 | [1383-maximum-performance-of-a-team](https://github.com/Sravy-Kolli/SQL-50/tree/master/1383-maximum-performance-of-a-team) |
 ## Greedy
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1383-maximum-performance-of-a-team](https://github.com/Sravy-Kolli/SQL-50/tree/master/1383-maximum-performance-of-a-team) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Sravy-Kolli/SQL-50/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
